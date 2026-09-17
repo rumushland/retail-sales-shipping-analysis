@@ -25,7 +25,7 @@
 
 ![Profitability Analysis](profitability_analysis.png)
 
-**Insight:****Insight:** Office Supplies remains profitable across all shipping modes, ranging from **16.70% to 22.08%**. In contrast, Tables are unprofitable across every shipping mode, with profit ratios ranging from **-11.71% to -4.74%**.
+**Insight:** Office Supplies remains profitable across all shipping modes, ranging from **16.70% to 22.08%**. In contrast, Tables are unprofitable across every shipping mode, with profit ratios ranging from **-11.71% to -4.74%**.
 
 ---
 
