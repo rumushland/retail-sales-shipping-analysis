@@ -33,7 +33,7 @@
 
 ![Sales and Profit Trend](time_series_sales_profit.png)
 
-**Insight:** Comparing sales and profit over time helps identify periods where higher sales do not necessarily result in proportional profit growth.Technology has the highest profit ratio at 17.45%, while Furniture is only 2.61%.
+**Insight:** Profit generally follows the sales trend, but some increases in sales do not lead to the same increase in profit.
 
 ---
 
