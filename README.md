@@ -1,24 +1,48 @@
 # Retail Sales & Shipping Performance Analysis
 
-## Overview
-This project analyzes retail sales, profitability, and shipping performance to understand how the business is performing and where the main issues are.
+> This project analyzes retail sales, profitability, and shipping performance to understand sales and profit trends and identify shipping issues.
 
-## Business Problem
-Is the business growing profitably, and where are the main shipping performance issues?
+## Business Question
 
-### Key Insight
+**Is the business growing profitably, and where are the main shipping performance issues?**
 
-**Out of 5,111 orders, about 60% are shipped within the 4-day target, while around 40% take longer.**
+## Key Insights
 
-## Key Questions
-- Where is the business generating or losing profit?
-  
-- Are higher sales translating into higher profits over time?
+1. About **40% of 5,111 orders take longer than the 4-day shipping target**.
+2. **Technology and Office Supplies have profit ratios above 17%, while Furniture is only 2.61%.**
+3. **Sales increased over time, but profit did not grow at the same pace.**
+---
 
-- Which shipping methods and locations have longer shipping times?
+## Shipping Performance
 
-## Shipping Performance Dashboard
+![Shipping Performance](Delivery_peformance_analysis.png)
 
-![Shipping Performance Dashboard](Delivery_peformance_analysis.png)
+**Insight:** Standard Class has the longest average delivery time at **5.0 days**, compared with **3.2 days for Second Class** and **2.2 days for First Class**.
 
-[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/DeliveryPerformanceAnalysis_17894588655280/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+---
+
+## Profitability Analysis
+
+![Profitability Analysis](profitability_analysis.png)
+
+**Insight:** Office Supplies remains profitable across all shipping modes, ranging from **16.70% to 22.08%**. In contrast, Tables are unprofitable across every shipping mode, with profit ratios from **-4.74% to -11.71%**.
+
+---
+
+## Sales & Profit Trend
+
+![Sales and Profit Trend](time_series_sales_profit.png)
+
+**Insight:** Comparing sales and profit over time helps identify periods where higher sales do not necessarily result in proportional profit growth.Technology has the highest profit ratio at 17.45%, while Furniture is only 2.61%.
+
+---
+
+## Recommendations
+
+- Investigate locations and shipping methods associated with longer shipping times.
+- Review high-sales areas with weak profitability.
+- Monitor sales and profit together when evaluating business growth.
+
+## Tools
+
+**Tableau · Data Visualization · Business Analysis**
