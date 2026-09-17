@@ -8,9 +8,9 @@
 
 ## Key Insights
 
-1. About **40% of 5,111 orders take longer than the 4-day shipping target**.
-2. **Technology and Office Supplies have profit ratios above 17%, while Furniture is only 2.61%.**
-3. **Sales increased over time, but profit did not grow at the same pace.**
+1. **Standard Class has the longest average delivery time at 5.0 days, compared with 3.2 days for Second Class and 2.2 days for First Class.**
+2. **Office Supplies has positive profit ratios across all shipping modes, while Tables has negative profit ratios in every shipping mode.**
+3. **Profit generally follows the sales trend, but some increases in sales do not lead to the same increase in profit.**
 ---
 
 ## Shipping Performance
@@ -25,7 +25,7 @@
 
 ![Profitability Analysis](profitability_analysis.png)
 
-**Insight:** Office Supplies remains profitable across all shipping modes, ranging from **16.70% to 22.08%**. In contrast, Tables are unprofitable across every shipping mode, with profit ratios from **-4.74% to -11.71%**.
+**Insight:****Insight:** Office Supplies remains profitable across all shipping modes, ranging from **16.70% to 22.08%**. In contrast, Tables are unprofitable across every shipping mode, with profit ratios ranging from **-11.71% to -4.74%**.
 
 ---
 
@@ -39,9 +39,10 @@
 
 ## Recommendations
 
-- Investigate locations and shipping methods associated with longer shipping times.
-- Review high-sales areas with weak profitability.
-- Monitor sales and profit together when evaluating business growth.
+- Review the factors behind the longer average delivery time for Standard Class.
+- Investigate Tables and other sub-categories with negative profit ratios.
+- Monitor sales and profit together when evaluating business performance.
+---
 
 ## Tools
 
